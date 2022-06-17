@@ -6,4 +6,4 @@ Some description!
 
 ## Local Development
 
-1. Open something
+1. Open something new in second branch
